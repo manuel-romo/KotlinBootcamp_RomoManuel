@@ -13,7 +13,7 @@ fun main(args : Array<String>){
     println(listStringNumbers)
 
     // Números divisibles por 7
-    var list : MutableList<Int> = mutableListOf()
+    val list : MutableList<Int> = mutableListOf()
     for (i in 0..100 step 7) list.add(i)
     println(list)
 
