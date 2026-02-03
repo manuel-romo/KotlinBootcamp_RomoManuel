@@ -2,6 +2,11 @@ package romo.manuel.kotlinbootcamp_romomanuel.modulo4.quiz412
 
 import romo.manuel.kotlinbootcamp_romomanuel.modulo4.quiz45.Spice
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 fun main(args : Array<String>){
     val container1 = SpiceContainer(Spice("curry", "mild"))
     val container2 = SpiceContainer(Spice("cayenne", "medium"))

@@ -1,7 +1,11 @@
 package romo.manuel.kotlinbootcamp_romomanuel.modulo4.quiz48
 
-open class Book (val title: String, val author: String) {
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
 
+open class Book (val title: String, val author: String) {
 
     private var currentPage = 0
 

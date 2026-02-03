@@ -1,5 +1,10 @@
 package romo.manuel.kotlinbootcamp_romomanuel.modulo5.quiz57
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 const val MAXIMUM_BORROWABLE_BOOKS = 10
 
 fun main(args : Array<String>){

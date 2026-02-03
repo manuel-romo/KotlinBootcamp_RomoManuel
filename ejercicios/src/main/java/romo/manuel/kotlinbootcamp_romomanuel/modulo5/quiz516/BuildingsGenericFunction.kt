@@ -1,5 +1,10 @@
 package romo.manuel.kotlinbootcamp_romomanuel.modulo5.quiz516
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 fun main(args: Array<String>) {
     isSmallBuilding(Building(Wood()))
     isSmallBuilding(Building(Brick()))

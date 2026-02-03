@@ -1,5 +1,10 @@
 package romo.manuel.kotlinbootcamp_romomanuel.modulo4.quiz415
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 fun main(args : Array<String>){
     val curry : Curry = Curry("yellow curry", "very spicy")
     println("Curry color: ${curry.color}")

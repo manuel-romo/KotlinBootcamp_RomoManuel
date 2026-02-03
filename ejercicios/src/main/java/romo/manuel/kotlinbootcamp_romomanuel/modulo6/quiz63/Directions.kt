@@ -1,5 +1,9 @@
 package romo.manuel.kotlinbootcamp_romomanuel.modulo6.quiz63
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
 
 fun main(args: Array<String>) {
     val game = Game()

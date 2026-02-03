@@ -2,6 +2,11 @@ package romo.manuel.kotlinbootcamp_romomanuel.modulo5.quiz59
 
 import kotlin.random.Random
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 fun main(args : Array<String>){
 
     val puppy : Puppy = Puppy()

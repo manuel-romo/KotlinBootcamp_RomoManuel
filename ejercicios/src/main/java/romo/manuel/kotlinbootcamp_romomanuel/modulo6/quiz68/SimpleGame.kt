@@ -2,6 +2,11 @@ package romo.manuel.kotlinbootcamp_romomanuel.modulo6.quiz68
 
 import kotlin.math.absoluteValue
 
+/**
+ * Autor: Manuel Romo López
+ * ID: 00000253080
+ */
+
 fun main(args: Array<String>) {
     val game = Game()
 
